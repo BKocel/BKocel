@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BKocel
-- 👀 I’m interested in photografy, live sound an computers in genera; 
+- 👀 I’m interested in photografy, live sound an computers in general; 
 - 🌱 I’m currently learning python
 - 📫 How to reach me: Don't
 
